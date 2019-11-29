@@ -1,6 +1,6 @@
-# Project Title 
 
-Split screen Sign-up Page 
+
+#Split screen Sign-up Page 
 
 ## Description 
 
