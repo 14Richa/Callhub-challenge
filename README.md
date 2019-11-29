@@ -1,6 +1,6 @@
 
 
-# Split screen Sign-up Page 
+# Split screen Sign-up/Sign-in Page 
 
 ## Description 
 
