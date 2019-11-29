@@ -128,7 +128,7 @@ input {
 	transform: translateX(100%);
 	opacity: 1;
 	z-index: 5;
-	animation: show 0.6s;
+	
 }
 
 @keyframes show {
@@ -225,6 +225,6 @@ input {
 	width: 40px;
 }
 
-.social-contaner:hover {
-	transition: 1.1;
+.social:hover {
+	background-color: #FF4B2B;
 }
