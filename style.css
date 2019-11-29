@@ -225,3 +225,6 @@ input {
 	width: 40px;
 }
 
+.social-contaner:hover {
+	transition: 1.1;
+}
